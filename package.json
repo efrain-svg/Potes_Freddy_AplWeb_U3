@@ -1,0 +1,17 @@
+{
+  "name": "cuaderno-tareas-u3",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cuaderno de tareas en Vue 3 con la API REST de la unidad 2",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test cliente.test.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}

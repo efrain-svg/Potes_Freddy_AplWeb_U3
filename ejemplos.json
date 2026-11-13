@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Diseñar el formulario de tareas",
+      "description": "Definir los campos y sus etiquetas accesibles.",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "title": "Conectar el listado con la API",
+      "description": "Comprobar la respuesta antes de mostrar los datos.",
+      "status": "in_progress"
+    },
+    {
+      "id": 3,
+      "title": "Probar el cuaderno sin conexión",
+      "description": "Abrir la guía después de desconectar el navegador.",
+      "status": "pending"
+    }
+  ]
+}
